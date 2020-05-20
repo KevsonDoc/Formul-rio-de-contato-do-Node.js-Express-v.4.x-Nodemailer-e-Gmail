@@ -1,0 +1,26 @@
+{
+  "name": "formul-rio-de-contato-do-node.js-express-v.4.x-nodemailer-e-gmail",
+  "version": "1.0.0",
+  "description": "Formulário de contato do Node.js. Usando Express v.4.x, Nodemailer e Gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevsonDoc/Formul-rio-de-contato-do-Node.js-Express-v.4.x-Nodemailer-e-Gmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevsonDoc/Formul-rio-de-contato-do-Node.js-Express-v.4.x-Nodemailer-e-Gmail/issues"
+  },
+  "homepage": "https://github.com/KevsonDoc/Formul-rio-de-contato-do-Node.js-Express-v.4.x-Nodemailer-e-Gmail#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
