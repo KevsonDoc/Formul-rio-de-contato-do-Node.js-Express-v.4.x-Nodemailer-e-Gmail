@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Formulrio de contato    com Node.js, Express e Nodemailer.</br></br>
-    <h1 style="text-align: center;">
+    <h1 style="align: center;">
         <img src="./nodemailer.png"/>
     </h1>
 </h1>
